@@ -1,0 +1,11 @@
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.Aprendendo.ConsoleApplication\bin\Debug\T-Systems.Aprendendo.ConsoleApplication.exe.config
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.Aprendendo.ConsoleApplication\bin\Debug\T-Systems.Aprendendo.ConsoleApplication.exe
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.Aprendendo.ConsoleApplication\bin\Debug\T-Systems.Aprendendo.ConsoleApplication.pdb
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.Aprendendo.ConsoleApplication\obj\Debug\T-Systems.Aprendendo.ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.Aprendendo.ConsoleApplication\obj\Debug\T-Systems.Aprendendo.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.Aprendendo.ConsoleApplication\obj\Debug\T-Systems.Aprendendo.ConsoleApplication.exe
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.Aprendendo.ConsoleApplication\obj\Debug\T-Systems.Aprendendo.ConsoleApplication.pdb
+C:\Users\fe662\source\repos\Aprendendo\T-Systems.Aprendendo.ConsoleApplication\obj\Debug\T-Systems.Aprendendo.ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\fe662\source\repos\Aprendendo\T-Systems.Aprendendo.ConsoleApplication\obj\Debug\T-Systems.Aprendendo.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\fe662\source\repos\Aprendendo\T-Systems.Aprendendo.ConsoleApplication\obj\Debug\T-Systems.Aprendendo.ConsoleApplication.exe
+C:\Users\fe662\source\repos\Aprendendo\T-Systems.Aprendendo.ConsoleApplication\obj\Debug\T-Systems.Aprendendo.ConsoleApplication.pdb

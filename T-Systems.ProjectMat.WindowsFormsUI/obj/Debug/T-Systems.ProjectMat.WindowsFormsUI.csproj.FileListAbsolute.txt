@@ -1,0 +1,10 @@
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.ProjectMat.WindowsFormsUI\bin\Debug\T-Systems.ProjectMat.WindowsFormsUI.exe.config
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.ProjectMat.WindowsFormsUI\bin\Debug\T-Systems.ProjectMat.WindowsFormsUI.exe
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.ProjectMat.WindowsFormsUI\bin\Debug\T-Systems.ProjectMat.WindowsFormsUI.pdb
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.ProjectMat.WindowsFormsUI\obj\Debug\T-Systems.ProjectMat.WindowsFormsUI.csprojAssemblyReference.cache
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.ProjectMat.WindowsFormsUI\obj\Debug\T_Systems.ProjectMat.WindowsFormsUI.FFormularioInicial.resources
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.ProjectMat.WindowsFormsUI\obj\Debug\T_Systems.ProjectMat.WindowsFormsUI.Properties.Resources.resources
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.ProjectMat.WindowsFormsUI\obj\Debug\T-Systems.ProjectMat.WindowsFormsUI.csproj.GenerateResource.cache
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.ProjectMat.WindowsFormsUI\obj\Debug\T-Systems.ProjectMat.WindowsFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.ProjectMat.WindowsFormsUI\obj\Debug\T-Systems.ProjectMat.WindowsFormsUI.exe
+C:\Users\fe662\source\repos\Desenvolvimento\T-Systems.ProjectMat.WindowsFormsUI\obj\Debug\T-Systems.ProjectMat.WindowsFormsUI.pdb
